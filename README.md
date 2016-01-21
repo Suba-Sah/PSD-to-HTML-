@@ -1,19 +1,16 @@
-# PSD-to-HTML-
-This HTML page is designed to promote the fashion's of the modern work. This conversion from PSD to HTML is done in 1-days and I have used the HTML,CSS and Javascript.
-# Angry-Bird
-
-This project is done at Leapfrog for educational purpose and we're making it more reliable, versatile, secure and amazingly user friendly  than ever in the history of the angry bird. 
+# PSD-to-HTML
+This HTML page is designed to promote the fashion's of the modern work. This conversion from PSD to HTML is done in 5-days and we have used the HTML,CSS and Javascript @Leapfrog Technology. 
 
 ## Installation
  <ol>
   <li>Linux 
     <ul>
-      <li>Just clone or download [Zip!](https://github.com/Suba-Sah/Angry-Bird/archive/master.zip).</li>
+      <li>Just clone or download [Zip!](https://github.com/Suba-Sah/PSD-to-HTML-/archive/master.zip).</li>
       <li>Extract the downloaded Zip file.</li>
       <li>Put it into the directory /opt/lampp/htdocs.</li>
       <li>Open Mysql Server: type: `sudo /opt/lampp/lampp start`.</li>
-      <li>Type `localhost/angry_birds` in any browser.</li>
-      <li>Enjoy the Game!!.</li>
+      <li>Type `localhost/PSDtoHTML` in any browser.</li>
+      <li>Enjoy!!.</li>
     </ul>
   </li>           
   <li>Windows
@@ -22,8 +19,8 @@ This project is done at Leapfrog for educational purpose and we're making it mor
        <li>Extract the downloaded Zip file.</li>
        <li>Put it into the directory `C://program files/xampp/htdocs`.</li>
        <li>Start the Mysql Server.</li>
-       <li>Type `localhost/angry_birds` in any browser.</li>
-       <li>Enjoy the Game!!.</li>
+       <li>Type `localhost/PSDtoHTML` in any browser.</li>
+       <li>Enjoy!!.</li>
 </ul>
 </li>
 </ol>
